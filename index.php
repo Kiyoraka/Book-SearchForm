@@ -1,4 +1,4 @@
-// search_form.php
+
 <?php
 // Database connection
 $host = "localhost";
