@@ -78,7 +78,6 @@ http://localhost/book-search/search_form.php
 ## 🔒 Security Features
 - Prepared statements
 - Input sanitization
-- SQL injection prevention
 - XSS protection
 
 ## 🔧 Database Configuration
