@@ -1,6 +1,8 @@
 # Book Search System 📚
 A PHP-based book search system with dynamic search capabilities and responsive interface.
 
+![Book Search System](assets/img/preview.png)
+
 ## ✨ Features
 - Natural language search queries
 - Multi-field search (title, category, description)
@@ -78,6 +80,7 @@ http://localhost/book-search/search_form.php
 ## 🔒 Security Features
 - Prepared statements
 - Input sanitization
+- SQL injection prevention
 - XSS protection
 
 ## 🔧 Database Configuration
